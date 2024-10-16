@@ -9,14 +9,14 @@ Hilic_Pos_uni_melted %>%
   group_by(variable) %>%
   anova_test(value ~ class ) %>%
   add_significance() %>%
-  write.xlsx("anova_Hilic_Pos.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/anova_Hilic_Pos.xlsx")
 
 Hilic_Pos_uni_melted %>%
   group_by(variable) %>%
   tukey_hsd(value ~ class,
             p.adjust.method = "fdr") %>%
   add_significance() %>%
-  write.xlsx("tukey_Hilic_Pos.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/tukey_Hilic_Pos.xlsx")
 
 # summary of filtered data
 Hilic_Neg_uni <- Hilic_Neg_filtered$data
@@ -27,14 +27,14 @@ Hilic_Neg_uni_melted %>%
   group_by(variable) %>%
   anova_test(value ~ class ) %>%
   add_significance() %>%
-  write.xlsx("anova_Hilic_Neg.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/anova_Hilic_Neg.xlsx")
 
 Hilic_Neg_uni_melted %>%
   group_by(variable) %>%
   tukey_hsd(value ~ class,
             p.adjust.method = "fdr") %>%
   add_significance() %>%
-  write.xlsx("tukey_Hilic_Neg.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/tukey_Hilic_Neg.xlsx")
 
 
 # summary of filtered data
@@ -46,14 +46,14 @@ C18_Pos_uni_melted %>%
   group_by(variable) %>%
   anova_test(value ~ class ) %>%
   add_significance() %>%
-  write.xlsx("anova_C18_Pos.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/anova_C18_Pos.xlsx")
 
 C18_Pos_uni_melted %>%
   group_by(variable) %>%
   tukey_hsd(value ~ class,
             p.adjust.method = "fdr") %>%
   add_significance() %>%
-  write.xlsx("tukey_C18_Pos.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/tukey_C18_Pos.xlsx")
 
 # summary of filtered data
 C18_Neg_uni <- C18_Neg_filtered$data
@@ -64,14 +64,14 @@ C18_Neg_uni_melted %>%
   group_by(variable) %>%
   anova_test(value ~ class ) %>%
   add_significance() %>%
-  write.xlsx("anova_C18_Neg.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/anova_C18_Neg.xlsx")
 
 C18_Neg_uni_melted %>%
   group_by(variable) %>%
   tukey_hsd(value ~ class,
             p.adjust.method = "fdr") %>%
   add_significance() %>%
-  write.xlsx("tukey_C18_Neg.xlsx")
+  write.xlsx("/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/tukey_C18_Neg.xlsx")
 
 
 

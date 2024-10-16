@@ -14,28 +14,16 @@ suppressPackageStartupMessages({
 })
 
 ## ---------------------------------------------------------------
-# load data
-data_hp <- read.csv("data_hp.csv", row.names = 1, check.names = FALSE)
-variable_meta_hp <-read.csv("variable_meta_hp.csv", row.names = 1, check.names = FALSE)
-
-data_hn <- read.csv("data_hn.csv", row.names = 1, check.names = FALSE)
-variable_meta_hn <- read.csv("variable_meta_hn.csv", row.names = 1, check.names = FALSE)
-
-data_rpp <- read.csv("data_rpp.csv", row.names = 1, check.names = FALSE)
-variable_meta_rpp <- read.csv("variable_meta_rpp.csv", row.names = 1, check.names = FALSE)
-
-data_rpn <- read.csv("data_rpn.csv", row.names = 1, check.names = FALSE)
-variable_meta_rpn <- read.csv("variable_meta_rpn.csv", row.names = 1, check.names = FALSE)
-
 # metadata are the same for all datasets
-sample_meta <- read.csv("sample_meta.csv")
+sample_meta <- read.csv(
+  "/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/data/sample_meta.csv"
+)
 
 # create DatasetExperiment ESI+
 DE_Hilic_Pos <- DatasetExperiment(
   data = t(data_hp),
   sample_meta = sample_meta,
-  variable_meta = as.data.frame(variable_meta_hp,
-                                row.names = colnames(t(data_hp))),
+  variable_meta = as.data.frame(variable_meta_hp, row.names = colnames(t(data_hp))),
   description = 'Metabolomics Testing',
   name = "Hilic ESI+"
 )
@@ -44,8 +32,7 @@ DE_Hilic_Pos <- DatasetExperiment(
 DE_Hilic_Neg <- DatasetExperiment(
   data = t(data_hn),
   sample_meta = sample_meta,
-  variable_meta = as.data.frame(variable_meta_hn,
-                                row.names = colnames(t(data_hn))),
+  variable_meta = as.data.frame(variable_meta_hn, row.names = colnames(t(data_hn))),
   description = 'Metabolomics Testing',
   name = "Hilic ESI+"
 )
@@ -54,8 +41,7 @@ DE_Hilic_Neg <- DatasetExperiment(
 DE_C18_Pos <- DatasetExperiment(
   data = t(data_rpp),
   sample_meta = sample_meta,
-  variable_meta = as.data.frame(variable_meta_rpp,
-                                row.names = colnames(t(data_rpp))),
+  variable_meta = as.data.frame(variable_meta_rpp, row.names = colnames(t(data_rpp))),
   description = 'Metabolomics Testing',
   name = "Hilic ESI+"
 )
@@ -64,8 +50,7 @@ DE_C18_Pos <- DatasetExperiment(
 DE_C18_Neg <- DatasetExperiment(
   data = t(data_rpn),
   sample_meta = sample_meta,
-  variable_meta = as.data.frame(variable_meta_rpn,
-                                row.names = colnames(t(data_rpn))),
+  variable_meta = as.data.frame(variable_meta_rpn, row.names = colnames(t(data_rpn))),
   description = 'Metabolomics Testing',
   name = "Hilic ESI+"
 )
@@ -76,10 +61,10 @@ DE_Hilic_Pos$sample_meta$type = factor(DE_Hilic_Pos$sample_meta$type)
 DE_Hilic_Pos$sample_meta$class = factor(DE_Hilic_Pos$sample_meta$class)
 DE_Hilic_Pos$sample_meta$extraction_type = factor(DE_Hilic_Pos$sample_meta$extraction_type)
 
-DE_Hilic_Neg$sample_meta$batch = factor(DE_Hilic_Neg $sample_meta$batch)
-DE_Hilic_Neg$sample_meta$type = factor(DE_Hilic_Neg $sample_meta$type)
-DE_Hilic_Neg$sample_meta$class = factor(DE_Hilic_Neg $sample_meta$class)
-DE_Hilic_Neg$sample_meta$extraction_type = factor(DE_Hilic_Neg $sample_meta$extraction_type)
+DE_Hilic_Neg$sample_meta$batch = factor(DE_Hilic_Neg$sample_meta$batch)
+DE_Hilic_Neg$sample_meta$type = factor(DE_Hilic_Neg$sample_meta$type)
+DE_Hilic_Neg$sample_meta$class = factor(DE_Hilic_Neg$sample_meta$class)
+DE_Hilic_Neg$sample_meta$extraction_type = factor(DE_Hilic_Neg$sample_meta$extraction_type)
 
 DE_C18_Pos$sample_meta$batch = factor(DE_C18_Pos$sample_meta$batch)
 DE_C18_Pos$sample_meta$type = factor(DE_C18_Pos$sample_meta$type)
@@ -170,7 +155,7 @@ C18_Neg
 calc_rsd <- function(x) {
   sd_value <- sd(x)
   mean_value <- mean(x)
-  rsd <- (sd_value * 100 / mean_value) 
+  rsd <- (sd_value * 100 / mean_value)
   return(rsd)
 }
 
@@ -187,17 +172,18 @@ result_hp <- hp_dat %>%
   summarise(RSD = rsd(Value)) %>%
   ungroup()
 
-rsd_hp_density <-ggplot(result_hp, aes(x=RSD, fill=class, color=class),  na.rm = TRUE) +
-  geom_density(alpha=0.1) + theme_bw(20) +
+rsd_hp_density <- ggplot(result_hp, aes(x = RSD, fill = class, color = class), na.rm = TRUE) +
+  geom_density(alpha = 0.1) + theme_bw(20) +
   labs(x = "RSD (%)", title = "HILIC ESI+") +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  scale_color_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  facet_grid(~class)
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  scale_color_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  facet_grid(~ class)
 
-rsd_hp_box <- ggplot(result_hp, aes(x=class, y=RSD, fill=class))+
-  geom_boxplot(alpha=0.5) + theme_bw(20) +
+rsd_hp_box <- ggplot(result_hp, aes(x = class, y = RSD, fill = class)) +
+  geom_boxplot(alpha = 0.5) + theme_bw(20) +
   labs(y = "RSD (%)", title = "HILIC ESI+") +
-  theme(legend.position = "none",
+  theme(
+    legend.position = "none",
     axis.title.x = element_blank(),
     axis.text.x = element_text(
       size = rel(0.8),
@@ -206,13 +192,13 @@ rsd_hp_box <- ggplot(result_hp, aes(x=class, y=RSD, fill=class))+
       vjust = 1.1
     )
   ) +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black"))
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black"))
 
 rsd_results_hp <- dcast(result_hp, class ~ Variable, value.var = "RSD")
 rsd_results_hp_final <- dcast(result_hp, class ~ Variable, value.var = "RSD")
 rsd_results_hp <- as.data.frame(t(rsd_results_hp))
 rsd_results_hp <- rsd_results_hp %>% janitor::row_to_names(row_number = 1)
-rsd_results_hp <- sapply(rsd_results_hp, as.numeric )
+rsd_results_hp <- sapply(rsd_results_hp, as.numeric)
 rsd_results_hp <- as_tibble(rsd_results_hp, .name_repair = "unique")
 
 
@@ -230,17 +216,18 @@ result_hn <- hn_dat %>%
   summarise(RSD = rsd(Value)) %>%
   ungroup()
 
-rsd_hn_density <-ggplot(result_hn, aes(x=RSD, fill=class, color=class),  na.rm = TRUE) +
-  geom_density(alpha=0.1) + theme_bw(20) +
+rsd_hn_density <- ggplot(result_hn, aes(x = RSD, fill = class, color = class), na.rm = TRUE) +
+  geom_density(alpha = 0.1) + theme_bw(20) +
   labs(x = "RSD (%)", title = "HILIC ESI-") +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  scale_color_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  facet_grid(~class) 
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  scale_color_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  facet_grid(~ class)
 
-rsd_hn_box <- ggplot(result_hn, aes(x=class, y=RSD, fill=class))+
-  geom_boxplot(alpha=0.5) + theme_bw(20) +
+rsd_hn_box <- ggplot(result_hn, aes(x = class, y = RSD, fill = class)) +
+  geom_boxplot(alpha = 0.5) + theme_bw(20) +
   labs(y = "RSD (%)", title = "HILIC ESI-") +
-  theme(legend.position = "none",
+  theme(
+    legend.position = "none",
     axis.title.x = element_blank(),
     axis.text.x = element_text(
       size = rel(0.8),
@@ -249,7 +236,7 @@ rsd_hn_box <- ggplot(result_hn, aes(x=class, y=RSD, fill=class))+
       vjust = 1
     )
   ) +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black"))
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black"))
 
 rsd_results_hn <- dcast(result_hn, class ~ Variable, value.var = "RSD")
 rsd_results_hn_final <- dcast(result_hn, class ~ Variable, value.var = "RSD")
@@ -271,17 +258,19 @@ result_rpp <- rpp_dat %>%
   summarise(RSD = rsd(Value)) %>%
   ungroup()
 
-rsd_rpp_density <-ggplot(result_rpp, aes(x=RSD, fill=class, color=class),  na.rm = TRUE) +
-  geom_density(alpha=0.1) + theme_bw(20) +
+rsd_rpp_density <- ggplot(result_rpp, aes(x = RSD, fill = class, color =
+                                            class), na.rm = TRUE) +
+  geom_density(alpha = 0.1) + theme_bw(20) +
   labs(x = "RSD (%)", title = "C18 ESI+") +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  scale_color_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  facet_grid(~class)
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  scale_color_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  facet_grid(~ class)
 
-rsd_rpp_box <- ggplot(result_rpp, aes(x=class, y=RSD, fill=class))+
-  geom_boxplot(alpha=0.5) + theme_bw(20) +
+rsd_rpp_box <- ggplot(result_rpp, aes(x = class, y = RSD, fill = class)) +
+  geom_boxplot(alpha = 0.5) + theme_bw(20) +
   labs(y = "RSD (%)", title = "C18 ESI+") +
-  theme(legend.position = "none",
+  theme(
+    legend.position = "none",
     axis.title.x = element_blank(),
     axis.text.x = element_text(
       size = rel(0.8),
@@ -290,13 +279,13 @@ rsd_rpp_box <- ggplot(result_rpp, aes(x=class, y=RSD, fill=class))+
       vjust = 1.1
     )
   ) +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black"))
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black"))
 
 rsd_results_rpp <- dcast(result_rpp, class ~ Variable, value.var = "RSD")
 rsd_results_rpp_final <- dcast(result_rpp, class ~ Variable, value.var = "RSD")
 rsd_results_rpp <- as.data.frame(t(rsd_results_rpp))
 rsd_results_rpp <- rsd_results_rpp %>% janitor::row_to_names(row_number = 1)
-rsd_results_rpp <- sapply(rsd_results_rpp, as.numeric )
+rsd_results_rpp <- sapply(rsd_results_rpp, as.numeric)
 rsd_results_rpp <- as_tibble(rsd_results_rpp, .name_repair = "unique")
 
 ##------------------------------------------------------------------------------
@@ -312,17 +301,19 @@ result_rpn <- rpn_dat %>%
   summarise(RSD = rsd(Value)) %>%
   ungroup()
 
-rsd_rpn_density <-ggplot(result_rpn, aes(x=RSD, fill=class, color=class),  na.rm = TRUE) +
-  geom_density(alpha=0.1) + theme_bw(20) +
+rsd_rpn_density <- ggplot(result_rpn, aes(x = RSD, fill = class, color =
+                                            class), na.rm = TRUE) +
+  geom_density(alpha = 0.1) + theme_bw(20) +
   labs(x = "RSD (%)", title = "C18 ESI-") +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  scale_color_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black")) +
-  facet_grid(~class)
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  scale_color_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black")) +
+  facet_grid(~ class)
 
-rsd_rpn_box <- ggplot(result_rpn, aes(x=class, y=RSD, fill=class))+
-  geom_boxplot(alpha=0.5) + theme_bw(20) +
+rsd_rpn_box <- ggplot(result_rpn, aes(x = class, y = RSD, fill = class)) +
+  geom_boxplot(alpha = 0.5) + theme_bw(20) +
   labs(y = "RSD (%)", title = "C18 ESI-") +
-  theme(legend.position = "none",
+  theme(
+    legend.position = "none",
     axis.title.x = element_blank(),
     axis.text.x = element_text(
       size = rel(0.8),
@@ -331,41 +322,55 @@ rsd_rpn_box <- ggplot(result_rpn, aes(x=class, y=RSD, fill=class))+
       vjust = 1.1
     )
   ) +
-  scale_fill_manual(values = c("#386cb0","#ef3b2c","#7fc97f","black"))
+  scale_fill_manual(values = c("#386cb0", "#ef3b2c", "#7fc97f", "black"))
 
 rsd_results_rpn <- dcast(result_rpn, class ~ Variable, value.var = "RSD")
 rsd_results_rpn_final <- dcast(result_rpn, class ~ Variable, value.var = "RSD")
-rsd_results_rpn <- as.data.frame(t(rsd_results_rpn))                           
+rsd_results_rpn <- as.data.frame(t(rsd_results_rpn))
 rsd_results_rpn <- rsd_results_rpn %>% janitor::row_to_names(row_number = 1)
-rsd_results_rpn <- sapply(rsd_results_rpn, as.numeric )
+rsd_results_rpn <- sapply(rsd_results_rpn, as.numeric)
 rsd_results_rpn <- as_tibble(rsd_results_rpn, .name_repair = "unique")
 
 ##------------------------------------------------------------------------------
-rsd_results_hp %>% 
+rsd_results_hp %>%
   get_summary_stats(Chlor_Meth, Meth_Water, Meth_ACN, QC, type = "robust")
-rsd_results_hn %>% 
+rsd_results_hn %>%
   get_summary_stats(Chlor_Meth, Meth_Water, Meth_ACN, QC, type = "robust")
-rsd_results_rpp %>% 
+rsd_results_rpp %>%
   get_summary_stats(Chlor_Meth, Meth_Water, Meth_ACN, QC, type = "robust")
-rsd_results_rpn %>% 
+rsd_results_rpn %>%
   get_summary_stats(Chlor_Meth, Meth_Water, Meth_ACN, QC, type = "robust")
 
 (rsd_hp_density / rsd_hn_density / rsd_rpp_density / rsd_rpn_density) +
-  plot_annotation(tag_levels = c('A')) + 
-  plot_layout(guides = "collect") & 
+  plot_annotation(tag_levels = c('A')) +
+  plot_layout(guides = "collect") &
   theme(legend.position = "bottom")
 
-ggsave('rsd_density.pdf', width = 10, height = 15)
+ggsave(
+  '/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/figures/rsd_density.pdf',
+  width = 10,
+  height = 15
+)
 
 ((rsd_hp_box | rsd_hn_box | rsd_rpp_box | rsd_rpn_box)  /
-  (tic_Hilic_Pos_pre  | tic_Hilic_Neg_pre | tic_C18_Pos_pre | tic_C18_Neg_pre) /
-  (post_tic_Hilic_Pos  | post_tic_Hilic_Neg | post_tic_C18_Pos | post_tic_C18_Neg)) +
-  plot_annotation(tag_levels = c('A')) + 
-  plot_layout(guides = "collect") & 
-  theme(legend.position = "bottom", 
-        legend.text = element_text(size=10))
+    (
+      tic_Hilic_Pos_pre  |
+        tic_Hilic_Neg_pre | tic_C18_Pos_pre | tic_C18_Neg_pre
+    ) /
+    (
+      post_tic_Hilic_Pos  |
+        post_tic_Hilic_Neg | post_tic_C18_Pos | post_tic_C18_Neg
+    )
+) +
+  plot_annotation(tag_levels = c('A')) +
+  plot_layout(guides = "collect") &
+  theme(legend.position = "bottom", legend.text = element_text(size = 10))
 
-ggsave('tic_processed.pdf', width = 12, height = 10.5)
+ggsave(
+  '/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/figures/tic_processed.pdf',
+  width = 12,
+  height = 10.5
+)
 
 
 # mapping the data frames onto the list
@@ -377,14 +382,15 @@ data_frames <- list(
 )
 
 # writing the list of data frames onto the xlsx file
-write.xlsx(data_frames, "Supplementary Table S2.xlsx")
+write.xlsx(
+  data_frames,
+  "/Users/andreabonicelli/Documents/GitHub/metabolomics-method/scripts/tables/Supplementary Table S2.xlsx"
+)
 
 
 
 
-(rsd_hp_box | rsd_hn_box ) / (rsd_rpp_box | rsd_rpn_box) +
-  plot_annotation(tag_levels = c('A')) + 
-  plot_layout(guides = "collect") & 
-  theme(legend.position = "bottom", 
-        legend.text = element_text(size=10))
-
+(rsd_hp_box | rsd_hn_box) / (rsd_rpp_box | rsd_rpn_box) +
+  plot_annotation(tag_levels = c('A')) +
+  plot_layout(guides = "collect") &
+  theme(legend.position = "bottom", legend.text = element_text(size = 10))
