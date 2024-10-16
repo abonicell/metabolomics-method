@@ -1,0 +1,27 @@
+﻿Sample,group,batch,class,extraction_type,run_order,type,batch_qc
+A1,A,1,Chlor_Meth,Biphasic,8,Sample,1
+A2,A,1,Chlor_Meth,Biphasic,9,Sample,1
+A3,A,1,Chlor_Meth,Biphasic,10,Sample,1
+A4,A,1,Chlor_Meth,Biphasic,11,Sample,1
+A5,A,1,Chlor_Meth,Biphasic,12,Sample,1
+B1,B,1,Meth_Water,Monophasic,13,Sample,1
+B2,B,1,Meth_Water,Monophasic,14,Sample,1
+B3,B,1,Meth_Water,Monophasic,15,Sample,1
+B4,B,1,Meth_Water,Monophasic,16,Sample,1
+B5,B,1,Meth_Water,Monophasic,17,Sample,1
+BLK A,A,1,Blank_Chlor_Meth,,1,Blank,Blank
+BLK B,B,1,Blank_Meth_Water,,2,Blank,Blank
+BLK C,C,1,Blank_Meth_ACN,,3,Blank,Blank
+C1,C,1,Meth_ACN,Monophasic,18,Sample,1
+C2,C,1,Meth_ACN,Monophasic,19,Sample,1
+C3,C,1,Meth_ACN,Monophasic,20,Sample,1
+C4,C,1,Meth_ACN,Monophasic,21,Sample,1
+C5,C,1,Meth_ACN,Monophasic,22,Sample,1
+QC01,QC,1,QC,,4,QC,QC
+QC02,QC,1,QC,,5,QC,QC
+QC03,QC,1,QC,,6,QC,QC
+QC04,QC,1,QC,,7,QC,QC
+QC05,QC,1,QC,,23,QC,QC
+QC06,QC,1,QC,,24,QC,QC
+QC07,QC,1,QC,,25,QC,QC
+QC08,QC,1,QC,,26,QC,QC

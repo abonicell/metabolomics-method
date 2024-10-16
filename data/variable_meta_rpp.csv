@@ -1,0 +1,229 @@
+﻿Assigned Annotation,Compound,Neutral mass (Da),m/z,Retention time (min),Chromatographic peak width (min),Identifications,Assigned Annotation,Identifier,MSI Classification,Adducts,Formula,Score,Fragmentation Score,Abs Mass Error (ppm),Isotope Similarity,Anova (p),q Value,Max Fold Change,Highest Mean,Lowest Mean,Maximum Abundance,Minimum CV%,CV QC
+(-)-Carveol,8.67_152.1193n,152.1193,135.116,8.67,0.148,2,(-)-Carveol,99-48-9,2,"M+H-H2O, M+H",C10H16O,47.7,49.5,5.2,94.8,3.57E-09,3.90E-11,6.3,B,BLK,96,11.73,#DIV/0!
+(-)-Isolongifolol,7.86_205.1940m/z,,205.194,7.86,0.397,5,(-)-Isolongifolol,1139-17-9,2,M+H-H2O,C15H26O,43.2,24.9,4.7,96.7,8.76E-14,2.00E-15,7,B,BLK,144,4.26,#DIV/0!
+(-)-Perillyl alcohol,5.52_153.1264m/z,,153.1264,5.52,0.354,18,(-)-Perillyl alcohol,18457-55-1,2,M+H,C10H16O,41.3,24.7,6.4,88.9,1.63E-11,2.57E-13,4.9,A,B,50,10.68,#DIV/0!
+"(+/-)-14-Hydroxy-4Z,7Z,10Z,12E,16Z,19Z-docosahexaenoic acid",7.86_327.2309m/z,,327.2309,7.86,0.222,23,"(.+/-.)-14-Hydroxy-4Z,7Z,10Z,12E,16Z,19Z-docosahexaenoic acid",87042-40-8,2,M+H-H2O,C22H32O3,42.3,21.5,2.7,93.2,1.45E-11,2.32E-13,2.7,C,A,159,1.29,#DIV/0!
+"(3'-(Aminocarbonyl)[1,1'-biphenyl]-3-yl)cyclohexylcarbamate",6.73_339.1750m/z,,339.175,6.73,0.05,12,"(3'-(Aminocarbonyl)[1,1'-biphenyl]-3-yl)cyclohexylcarbamate",546141-08-6,2,M+H,C20H22N2O3,40.7,27.4,14,90.6,7.87E-10,9.50E-12,24.8,A,C,48,22.95,#DIV/0!
+alpha-Ergocryptine,4.43_576.3185m/z,,576.3185,4.43,0.334,1,.alpha.-Ergocryptine,511-09-1,2,M+H,C32H41N5O5,43.3,23.9,0.9,93.4,3.73E-14,9.07E-16,232,A,BLK,256,18.38,#DIV/0!
+alpha-Estradiol,6.40_273.1835m/z,,273.1835,6.4,0.203,5,.alpha.-Estradiol,57-91-0,1,M+H,C18H24O2,39.1,13.3,5.1,88,1.40E-12,2.65E-14,2,A,B,120,2.68,#DIV/0!
+alpha-Pinene oxide,5.70_135.1160m/z,,135.116,5.7,0.226,4,.alpha.-Pinene oxide,1686-14-2,2,M+H-H2O,C10H16O,44.3,32.2,5.2,95.3,5.59E-06,4.06E-08,1.7,A,BLK,62,5.29,#DIV/0!
+"beta-D-Glucopyranose, 1,6-anhydro-",1.03_163.0594m/z,,163.0594,1.03,0.122,13,".beta.-D-Glucopyranose, 1,6-anhydro-",498-07-7,2,M+H,C6H10O5,49,57.7,4.5,92.6,0.000141327,8.94E-07,3.4,A,BLK,6,9.01,#DIV/0!
+omega-3 Arachidonic acid,9.46_305.2457m/z,,305.2457,9.46,0.376,13,.omega.-3 Arachidonic acid,24880-40-8,2,M+H,C20H32O2,48.7,59.3,5.9,91.2,1.27E-06,9.87E-09,3.5,C,A,316,7.22,#DIV/0!
+1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine,8.28_522.3539m/z,,522.3539,8.28,0.439,1,1-(9Z-Octadecenoyl)-sn-glycero-3-phosphocholine,19420-56-5,2,M+H,C26H52NO7P,41.3,29.1,2.8,80.5,0.007625532,4.19E-05,2.3,B,BLK,147,2.67,#DIV/0!
+1-(9Z-Octadecenoyl)-sn-glycero-3-phosphoethanolamine,8.11_480.3100m/z,,480.31,8.11,0.098,2,1-(9Z-Octadecenoyl)-sn-glycero-3-phosphoethanolamine,89576-29-4,2,M+H,C23H46NO7P,42.2,19.8,3.2,95,4.16E-05,2.78E-07,5,C,BLK,53,8.15,#DIV/0!
+1-(p-Tolyl)butan-1-one,4.94_163.1110m/z,,163.111,4.94,0.101,4,1-(p-Tolyl)butan-1-one,4160-52-5,2,M+H,C11H14O,40.4,8.2,4.4,98.8,9.15E-13,1.78E-14,21.4,A,BLK,32,8.99,#DIV/0!
+"1,2,3,6-Tetrahydrobenzylalcohol",7.89_95.0856m/z,,95.0856,7.89,0.247,2,"1,2,3,6-Tetrahydrobenzylalcohol",1679-51-2,2,M+H-H2O,C7H12O,40,8.07,0.5,92.6,4.17E-07,3.45E-09,9,B,BLK,452,10.02,#DIV/0!
+11(12)-EET,8.33_321.2392m/z,,321.2392,8.33,0.562,31,11(12)-EET,123931-40-8,2,M+H,C20H32O3,41.7,24.1,10.2,95.4,3.20E-13,6.70E-15,6.5,QC,BLK,"4,216",2.96,#DIV/0!
+12(13)-Epoxy-9Z-octadecenoic acid,8.55_297.2416m/z,,297.2416,8.55,1,13,12(13)-Epoxy-9Z-octadecenoic acid,948310-68-7,2,M+H,C18H32O3,58.2,96.6,2.7,97.5,0,0,11.5,C,BLK,"17,468",0.91,#DIV/0!
+12-Ketodeoxycholic acid,6.30_373.2733m/z,,373.2733,6.3,0.1,5,12-Ketodeoxycholic acid,5130-29-0,2,M+H-H2O,C24H38O4,43.3,25.7,1,91.9,1.39E-14,3.59E-16,33.5,B,BLK,43,6.78,#DIV/0!
+"13,14-Dihydro-15-keto-tetranor prostaglandin F1beta",5.87_300.1909n,300.1909,283.1876,5.87,0.779,1,"13,14-Dihydro-15-keto-tetranor prostaglandin F1.beta.",23015-45-4,2,"M+H-H2O, M+Na",C16H28O5,43.6,33,9.2,95,1.11E-16,3.98E-18,2.4,A,B,433,2.18,#DIV/0!
+"14,15-EE-(8Z)-E",9.08_324.2654n,324.2654,347.2546,9.08,0.744,6,"14,15-EE-(8Z)-E",519038-93-8,2,"M+H-H2O, M+H, M+Na",C20H36O3,45.7,37.8,3.2,94.3,0,0,11.4,C,A,"3,959",1.87,#DIV/0!
+15(R)-15-Methylprostaglandin F2alpha,7.64_351.2508m/z,,351.2508,7.64,0.4,11,15(R)-15-Methylprostaglandin F2.alpha.,35864-81-4,2,M+H-H2O,C21H36O5,46.6,45.9,5.8,93.8,0,0,119,B,A,139,4.43,#DIV/0!
+"15(S)-Hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoic acid",8.33_343.2216m/z,,343.2216,8.33,0.635,24,"15(S)-Hydroxy-(5Z,8Z,11Z,13E)-eicosatetraenoic acid",54845-95-3,2,M+Na,C20H32O3,42.3,24,8.6,97.3,2.55E-12,4.63E-14,11.2,A,BLK,"2,718",2.17,#DIV/0!
+15-OxoETE,5.67_301.2143m/z,,301.2143,5.67,0.151,25,15-OxoETE,81416-72-0,2,M+H-H2O,C20H30O3,46.3,42.7,6.1,96,2.30E-11,3.54E-13,18.6,A,BLK,25,6.05,#DIV/0!
+"16,16-Dimethyl-6-ketoprostaglandin E1",5.75_419.2394m/z,,419.2394,5.75,0.403,13,"16,16-Dimethyl-6-ketoprostaglandin E1",75874-32-7,2,M+Na,C22H36O6,43.8,30.5,2.6,91.6,2.72E-09,3.03E-11,2.3,A,BLK,141,3.89,#DIV/0!
+"16,16-Dimethylprostaglandin A2",7.06_385.2341m/z,,385.2341,7.06,0.905,8,"16,16-Dimethylprostaglandin A2",41691-92-3,2,M+Na,C22H34O4,41.4,19.4,2.4,90.3,0,0,119.9,B,BLK,288,3.32,#DIV/0!
+"16,16-Dimethylprostaglandin D2",8.67_363.2496m/z,,363.2496,8.67,0.538,14,"16,16-Dimethylprostaglandin D2",64072-59-9,2,M+H-H2O,C22H36O5,40.2,14.4,8.9,96.2,2.37E-11,3.64E-13,3.9,C,A,401,3.45,#DIV/0!
+"16,16-Dimethylprostaglandin E2",6.30_403.2446m/z,,403.2446,6.3,0.327,9,"16,16-Dimethylprostaglandin E2",39746-25-3,2,M+Na,C22H36O5,40.1,13.7,2.3,89.8,2.25E-07,1.92E-09,2.1,A,BLK,85,2.17,#DIV/0!
+"16,16-Dimethylprostaglandin F2alpha",7.18_365.2639m/z,,365.2639,7.18,0.227,14,"16,16-Dimethylprostaglandin F2.alpha.",39746-23-1,2,M+H-H2O,C22H38O5,43,41,12.3,86.9,1.25E-05,8.75E-08,1.7,B,BLK,166,2.92,#DIV/0!
+16-Phenyl tetranor prostaglandin E1,6.30_357.2023m/z,,357.2023,6.3,0.353,21,16-Phenyl tetranor prostaglandin E1,xGFh8vnS3mdNipG,2,M+H-H2O,C22H30O5,42.3,27.8,9.9,94.3,2.93E-09,3.24E-11,32.5,A,BLK,163,2.18,#DIV/0!
+"17,20-Dimethyl Prostaglandin F1alpha",8.18_367.2810m/z,,367.281,8.18,0.197,1,"17,20-Dimethyl Prostaglandin F1.alpha.",Tt@Z-MEuJUumJIP,2,M+H-H2O,C22H40O5,40,23,8.6,86.7,4.34E-14,1.04E-15,100,B,BLK,99,4.09,#DIV/0!
+17-Octadecynoic acid,7.39_281.2463m/z,,281.2463,7.39,1.111,6,17-Octadecynoic acid,34450-18-5,2,M+H,C18H32O2,41.7,15.7,4.4,97.8,8.05E-13,1.58E-14,3,B,BLK,"2,677",3.04,#DIV/0!
+17-Phenyl trinor prostaglandin A2,4.07_368.2045n,368.2045,391.1937,4.07,0.387,1,17-Phenyl trinor prostaglandin A2,38315-51-4,2,"M+H, M+Na, M+H-H2O",C23H28O4,40.5,21.4,15.6,97,5.33E-15,1.47E-16,14.5,A,BLK,441,2.16,#DIV/0!
+17-Phenyl trinor prostaglandin E2,6.15_369.1985m/z,,369.1985,6.15,0.475,12,17-Phenyl trinor prostaglandin E2,38315-43-4,2,M+H-H2O,C23H30O5,52.8,85.1,19.4,98.3,3.70E-09,4.03E-11,3.4,A,BLK,875,1.59,#DIV/0!
+"17-Phenyl trinor-13,14-dihydroprostaglandin A2",3.83_370.2203n,370.2203,393.2095,3.83,0.313,3,"17-Phenyl trinor-13,14-dihydroprostaglandin A2",130209-80-2,2,"M+H, M+Na",C23H30O4,40.2,19.5,15.8,97.6,1.49E-13,3.29E-15,3.6,B,A,"1,596",2.9,#DIV/0!
+"19,20-DiHDPA",7.41_363.2505m/z,,363.2505,7.41,1.24,14,"19,20-DiHDPA",1006703-13-4,2,M+H,C22H34O4,40.4,29.4,6.9,80.5,5.31E-12,9.13E-14,9.7,B,BLK,"1,018",4.18,#DIV/0!
+1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine,7.16_534.3906m/z,,534.3906,7.16,0.202,3,1-Arachidoyl-2-hydroxy-sn-glycero-3-phosphocholine,108341-80-6,2,M+H-H2O,C28H58NO7P,49,53.1,2.2,94.3,1.11E-13,2.50E-15,19.9,A,B,144,11.05,#DIV/0!
+1-Cyclohexylethanol,8.33_111.1167m/z,,111.1167,8.33,0.366,5,1-Cyclohexylethanol,1193-81-3,2,M+H-H2O,C8H16O,41.3,16.4,1.2,91.5,1.05E-07,9.35E-10,4.5,C,BLK,225,13.13,#DIV/0!
+1-Hexadecanoyl-sn-glycero-3-phosphocholine,8.11_496.3386m/z,,496.3386,8.11,0.392,3,1-Hexadecanoyl-sn-glycero-3-phosphocholine,BnH-6djT5rFdNiC,2,M+H,C24H50NO7P,41,20.1,2.3,87.7,0.014352033,7.72E-05,2,B,BLK,232,2.19,#DIV/0!
+1-Hexadecylamine,6.78_242.2832m/z,,242.2832,6.78,0.176,1,1-Hexadecylamine,143-27-1,2,M+H,C16H35N,40.5,12.1,4.2,95.3,1.16E-09,1.37E-11,5.4,C,A,44,12.76,#DIV/0!
+1H-Indole-4-carboxaldehyde,4.79_146.0593m/z,,146.0593,4.79,0.154,8,1H-Indole-4-carboxaldehyde,1074-86-8,1,M+H,C9H7NO,57.2,93.7,5.2,98.1,3.11E-15,8.97E-17,46.8,B,BLK,15,4.37,#DIV/0!
+1-Linoleoyl-2-stearoyl-sn-glycero-3-phospho-(1'-sn-glycerol),7.93_797.5237m/z,,797.5237,7.93,0.546,4,1-Linoleoyl-2-stearoyl-sn-glycero-3-phospho-(1'-sn-glycerol),1221487-94-0,2,M+Na,C42H79O10P,40.5,37.7,8.5,74.4,1.57E-09,1.81E-11,12.1,B,A,163,14.38,#DIV/0!
+1-Phenyl-2-decanoylamino-3-morpholino-1-propanol,5.92_391.2944m/z,,391.2944,5.92,0.247,2,1-Phenyl-2-decanoylamino-3-morpholino-1-propanol,73257-80-4,2,M+H,C23H38N2O3,43.7,26.7,2.9,95.1,1.53E-08,1.51E-10,5.2,C,A,103,5.75,#DIV/0!
+1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine,5.34_464.3224m/z,,464.3224,5.34,0.709,2,1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine,69747-55-3,2,M+H-H2O,C23H48NO7P,44.4,51.1,18.3,89.4,1.94E-11,3.02E-13,8.5,A,BLK,168,9.19,#DIV/0!
+2-(2-Butoxyethoxy)acetic acid,3.55_177.1114m/z,,177.1114,3.55,0.183,2,2-(2-Butoxyethoxy)acetic acid,82941-26-2,2,M+H,C8H16O4,43.9,26.2,4.2,98.1,3.65E-08,3.45E-10,2.5,B,A,23,8.84,#DIV/0!
+"2',4'-Dimethoxychalcone",4.17_269.1126m/z,,269.1126,4.17,0.153,20,"2',4'-Dimethoxychalcone",1154-77-4,2,M+H,C17H16O3,44.6,46,17.1,94.5,0,0,52.9,A,BLK,27,5.29,#DIV/0!
+"2,5-Di-tert-butyl-1,4-benzoquinone",8.25_221.1527m/z,,221.1527,8.25,0.171,3,"2,5-Di-tert-butyl-1,4-benzoquinone",2460-77-7,2,M+H,C14H20O2,40.8,15.3,4.1,93.4,2.63E-10,3.39E-12,2.9,C,A,43,3.59,#DIV/0!
+2-Amino-1-phenylethanol,2.17_120.0803m/z,,120.0803,2.17,0.287,8,2-Amino-1-phenylethanol,7568-93-6,2,M+H-H2O,C8H11NO,40.3,5.98,3.1,99.3,3.77E-15,1.07E-16,377.4,A,BLK,914,3.56,#DIV/0!
+2-Hydroxyestradiol,5.17_289.1792m/z,,289.1792,5.17,0.204,4,2-Hydroxyestradiol,362-05-0,2,M+H,C18H24O3,41,20.8,2,86.7,4.08E-07,3.38E-09,2.7,A,BLK,41,4.2,#DIV/0!
+2-Methylresorcinol,2.96_125.0590m/z,,125.059,2.96,0.17,11,2-Methylresorcinol,608-25-3,2,M+H,C7H8O2,40.4,11.5,5.9,97.3,9.73E-05,6.27E-07,22.7,A,B,20,6.5,#DIV/0!
+2-Propyl-4-pentenoic acid,6.48_143.1066m/z,,143.1066,6.48,0.127,7,2-Propyl-4-pentenoic acid,117039-61-9,2,M+H,C8H14O2,44.7,31.1,0.7,93.4,2.58E-08,2.47E-10,36.7,B,BLK,15,16.14,#DIV/0!
+3alpha-Mannobiose,1.03_325.1124m/z,,325.1124,1.03,0.195,49,3.alpha.-Mannobiose,23745-85-9,2,M+H-H2O,C12H22O11,42.7,20.2,1.4,95,1.17E-06,9.18E-09,5.1,A,BLK,52,5.02,#DIV/0!
+3-Hydroxycapric acid,7.49_171.1371m/z,,171.1371,7.49,0.377,8,3-Hydroxycapric acid,5561-87-5,2,M+H-H2O,C10H20O3,43,26.3,4.7,93.9,2.63E-09,2.94E-11,2.2,A,BLK,50,2.1,#DIV/0!
+3-Hydroxyoctadecanoic Acid,8.64_300.2650n,300.265,283.2617,8.64,2.047,1,3-Hydroxyoctadecanoic Acid,17773-30-7,2,"M+H-H2O, M+K, M+H",C18H36O3,53.2,75.6,4.7,95.8,3.22E-15,9.26E-17,1.7,B,A,"3,327",1.99,#DIV/0!
+3-Methoxyprostaglandin F1alpha,9.43_369.2601m/z,,369.2601,9.43,0.094,9,3-Methoxyprostaglandin F1.alpha.,54432-43-8,2,M+H-H2O,C21H38O6,40.7,23.6,8.9,89.7,0,0,Infinity,A,BLK,104,8.71,#DIV/0!
+3-Methylphenylacetic acid,5.87_151.0745m/z,,151.0745,5.87,0.1,10,3-Methylphenylacetic acid,621-36-3,2,M+H,C9H10O2,43.5,25.2,5.8,99.2,7.81E-12,1.30E-13,104.5,A,C,7,22.85,#DIV/0!
+3-Phenoxy-1-propanol,4.73_153.0903m/z,,153.0903,4.73,0.205,3,3-Phenoxy-1-propanol,6180-61-6,2,M+H,C9H12O2,48,54.2,4.9,91.3,1.94E-14,4.93E-16,6.3,A,B,36,8.42,#DIV/0!
+4-(2-Amino-1-hydroxyethyl)-2-methoxyphenol,3.26_166.0855m/z,,166.0855,3.26,0.229,4,4-(2-Amino-1-hydroxyethyl)-2-methoxyphenol,97-31-4,2,M+H-H2O,C9H13NO3,42.2,19.4,3.9,96.1,2.36E-11,3.63E-13,Infinity,A,BLK,9,9.44,#DIV/0!
+4-Chromanone,2.17_148.0517n,148.0517,149.059,2.17,0.216,3,4-Chromanone,491-37-2,2,"M+H-H2O, M+H",C9H8O2,43.5,26.7,5.1,96.9,0,0,Infinity,A,BLK,39,3.43,#DIV/0!
+4-Hydroxybenzaldehyde,1.30_123.0435m/z,,123.0435,1.3,0.17,7,4-Hydroxybenzaldehyde,123-08-0,2,M+H,C7H6O2,51.4,63.6,4.9,99.2,0,0,Infinity,A,BLK,61,6.53,#DIV/0!
+4-Hydroxynonenal,5.40_156.1142n,156.1142,139.1109,5.4,0.178,1,4-Hydroxynonenal,75899-68-2,2,"M+H-H2O, M+H",C9H16O2,51,65.1,5.3,96.1,7.36E-09,7.66E-11,4.1,A,BLK,39,9.81,#DIV/0!
+4-Imidazoleacetic acid,1.57_127.0495m/z,,127.0495,1.57,0.17,6,4-Imidazoleacetic acid,645-65-8,1,M+H,C5H6N2O2,39.4,6.33,5.2,96.9,0,0,461,C,BLK,10,6.37,#DIV/0!
+4-Imidazoleacrylic acid,1.06_138.0423n,138.0423,139.0496,1.06,0.219,4,4-Imidazoleacrylic acid,104-98-3,2,"M+H, M+Na, M+K, M+H-H2O",C6H6N2O2,46.3,37.3,4.4,99.4,3.33E-16,1.11E-17,17.5,A,BLK,155,3.47,#DIV/0!
+"5,6-Epoxy-8Z,11Z,14Z-eicosatrienoic acid",8.16_303.2303m/z,,303.2303,8.16,0.44,28,"5,6-Epoxy-8Z,11Z,14Z-eicosatrienoic acid",184488-43-5,2,M+H-H2O,C20H32O3,45.3,36.3,4.8,96,4.00E-15,1.13E-16,15.4,B,BLK,802,1.82,#DIV/0!
+5-Aminolevulinic acid,1.01_132.0650m/z,,132.065,1.01,0.413,6,5-Aminolevulinic acid,106-60-5,1,M+H,C5H9NO3,54,78.4,3.9,96.2,0,0,220.6,A,BLK,58,1.37,#DIV/0!
+"5S,12S-Dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid",6.68_359.2174m/z,,359.2174,6.68,1.16,32,"5S,12S-Dihydroxy-6Z,8E,10E,14Z-eicosatetraenoic acid",83709-73-3,2,M+Na,C20H32O4,48.2,57.2,5.6,90.3,2.25E-14,5.66E-16,6.3,A,BLK,992,2.86,#DIV/0!
+6-Ketoprostaglandin F1alpha,5.77_393.2242m/z,,393.2242,5.77,1.235,14,6-Ketoprostaglandin F1.alpha.,58962-34-8,2,M+Na,C20H34O6,40.7,18.3,1.6,87.2,1.23E-10,1.66E-12,20.3,A,BLK,786,2.24,#DIV/0!
+"6-Octadecenoic acid, (Z)-",10.26_282.2551n,282.2551,265.2518,10.26,0.503,7,"6-Octadecenoic acid, (Z)-",593-39-5,2,"M+H-H2O, M+H",C18H34O2,49.6,55.7,2.9,95.8,8.88E-16,2.79E-17,9.3,C,BLK,"3,017",3.94,#DIV/0!
+7-Hydroxychromanone,1.30_164.0470n,164.047,165.0543,1.3,0.218,4,7-Hydroxychromanone,5631-67-4,2,"M+H-H2O, M+H",C9H8O3,47.6,41.4,1.9,98.9,2.22E-16,7.63E-18,306.3,A,BLK,370,5.37,#DIV/0!
+7-Keto-8-aminopelargonic acid,4.12_187.1204n,187.1204,170.1171,4.12,0.283,1,7-Keto-8-aminopelargonic acid,4707-58-8,2,"M+H-H2O, M+H, M+K, M+Na",C9H17NO3,46.1,34.4,2.4,99,3.41E-08,3.23E-10,61.8,A,C,"6,422",2.31,#DIV/0!
+"8,12-iso-iPF2alpha-VI 1,5- lactone",7.54_336.2270n,336.227,337.2343,7.54,0.72,26,"8,12-iso-iPF2.alpha.-VI 1,5- lactone",b26Q77UBTY1KbE6,2,"M+H, M+Na",C20H32O4,46,44,9,95.9,5.88E-15,1.62E-16,4,C,BLK,"6,786",2.01,#DIV/0!
+8-Iso-16-cyclohexyl-tetranor prostaglandin E2,6.63_378.2385n,378.2385,361.2352,6.63,1.107,2,8-Iso-16-cyclohexyl-tetranor prostaglandin E2,53319-30-5,2,"M+H-H2O, M+Na",C22H34O5,42.7,37.1,5.5,82.7,7.77E-16,2.46E-17,3.8,A,BLK,762,2.36,#DIV/0!
+"9-Octadecenamide, (Z)-",9.69_281.2710n,281.271,282.2782,9.69,0.378,2,"9-Octadecenamide, (Z)-",301-02-0,2,"M+H, M+Na",C18H35NO,56.7,89.1,3.2,98.1,6.79E-13,1.35E-14,44,B,A,"37,930",1.26,#DIV/0!
+"9-Oxo-10E,12Z-octadecadienoic acid",8.08_294.2189n,294.2189,295.2261,8.08,0.394,6,"9-Oxo-10E,12Z-octadecadienoic acid",54232-59-6,2,"M+H-H2O, M+H",C18H30O3,53.8,74.4,2.1,97.2,0,0,41.5,C,BLK,"24,188",3.08,#DIV/0!
+"9-Oxo-11R,15S-dihydroxy-1a,1b-dihomo-13E-prostaenoic acid",7.74_365.2664m/z,,365.2664,7.74,0.301,14,"9-Oxo-11R,15S-dihydroxy-1a,1b-dihomo-13E-prostaenoic acid",23452-98-4,2,M+H-H2O,C22H38O5,40.8,18.3,5.9,92.7,2.52E-07,2.13E-09,2.2,C,BLK,258,4.75,#DIV/0!
+"9-Oxo-15S-hydroxy-5Z,8(12),13E,17Z-prostatetraenoic acid",6.60_333.2031m/z,,333.2031,6.6,1.46,23,"9-Oxo-15S-hydroxy-5Z,8(12),13E,17Z-prostatetraenoic acid",36614-32-1,2,M+H,C20H28O4,42.7,27.3,8.8,95.9,4.97E-14,1.18E-15,2.5,C,BLK,"1,630",3.45,#DIV/0!
+9-OxoOTrE,7.54_293.2095m/z,,293.2095,7.54,1.019,7,9-OxoOTrE,125559-74-2,2,M+H,C18H28O3,45.6,38,5.7,96.3,0,0,4.6,C,BLK,"4,986",1.24,#DIV/0!
+"9-Oxo-prosta-5Z,10,12Z,14E-tetraenoic acid",8.25_316.2008n,316.2008,317.2081,8.25,1.112,2,"9-Oxo-prosta-5Z,10,12Z,14E-tetraenoic acid",112839-31-3,2,"M+H, M+Na",C20H28O3,40.1,15.8,9.7,95.5,0,0,36.7,C,BLK,"25,538",1.14,#DIV/0!
+"9S,11R,15S-Trihydroxy-20a,20b-dihomo-5Z,13E-prostadienoic acid",8.11_365.2669m/z,,365.2669,8.11,0.221,15,"9S,11R,15S-Trihydroxy-20a,20b-dihomo-5Z,13E-prostadienoic acid",36950-85-3,2,M+H-H2O,C22H38O5,51.7,73.4,4.6,90.4,1.33E-15,4.08E-17,2.8,B,A,168,1.25,#DIV/0!
+"9S,11S,15S-Trihydroxy-2,3-dinor-5Z,13E-prostadienoic acid",5.77_309.2042m/z,,309.2042,5.77,0.297,5,"9S,11S,15S-Trihydroxy-2,3-dinor-5Z,13E-prostadienoic acid",221664-05-7,2,M+H-H2O,C18H30O5,49.6,60.4,5.8,94.3,3.33E-16,1.11E-17,4.6,A,BLK,576,3.94,#DIV/0!
+Ala-Ala-Lys,1.06_289.1862m/z,,289.1862,1.06,0.122,1,Ala-Ala-Lys,nKFWRd7P0WtkDM0,2,M+H,C12H24N4O4,41.9,15.5,2.8,97.6,0,0,Infinity,A,BLK,43,6.84,#DIV/0!
+Allopurinol,1.16_136.0381n,136.0381,137.0454,1.16,0.219,3,Allopurinol,315-30-0,2,"M+H, M+Na",C5H4N4O,41.9,16,3.1,97.3,0,0,36681.9,A,BLK,167,4.2,#DIV/0!
+Arachidonoyl amide,9.08_304.2624m/z,,304.2624,9.08,0.19,5,Arachidonoyl amide,85146-53-8,2,M+H,C20H33NO,47.8,48.8,3.5,94.4,0,0,63.6,B,A,445,3.55,#DIV/0!
+Arachidonoylglycine,5.01_384.2565m/z,,384.2565,5.01,0.05,2,Arachidonoylglycine,179113-91-8,2,M+Na,C22H35NO3,45.8,58.7,15.5,86.3,0.000132996,8.43E-07,5,A,BLK,38,12.69,#DIV/0!
+Arachidonoylserinol,9.29_378.2984m/z,,378.2984,9.29,0.283,2,Arachidonoylserinol,183718-70-9,2,M+H,C23H39NO3,43.6,28.5,4.9,95.1,0,0,162.7,C,BLK,624,2.59,#DIV/0!
+Arg-Pro-Pro,5.80_369.2227m/z,,369.2227,5.8,0.223,15,Arg-Pro-Pro,01c2G0nEGpftaxG,2,M+H,C16H28N6O4,45,43.7,4.7,86.6,4.97E-08,4.61E-10,2.9,A,BLK,384,5.15,#DIV/0!
+Asn-Gly-Arg,3.91_346.1874m/z,,346.1874,3.91,0.209,6,Asn-Gly-Arg,0OGz0S3kjFHu5MN,2,M+H,C12H23N7O5,44.9,52.4,11.6,84.4,7.77E-16,2.46E-17,130.1,A,BLK,15,7.67,#DIV/0!
+Asn-Pro,6.68_230.1122m/z,,230.1122,6.68,0.126,9,Asn-Pro,Hi-yO85Ap@01DFl,2,M+H,C9H15N3O4,44.2,28.8,5.7,98.5,0.128467915,0.000645434,1.9,A,BLK,24,11.13,#DIV/0!
+Asn-Pro-Lys,3.75_358.2069m/z,,358.2069,3.75,0.418,6,Asn-Pro-Lys,4thmIh3sKFWS@Xa,2,M+H,C15H27N5O5,49.3,54.5,4.5,97.2,0.006320467,3.49E-05,1.7,C,BLK,306,2.73,#DIV/0!
+Asp-Ala-Arg,4.27_361.1832m/z,,361.1832,4.27,1.393,8,Asp-Ala-Arg,SEMSR0w0NbtwtzZ,2,M+H,C13H24N6O6,45.5,69.4,0.6,58.7,9.46E-11,1.31E-12,1.8,B,BLK,270,2.64,#DIV/0!
+Asp-Met-Arg,4.73_420.1735n,420.1735,421.1808,4.73,0.154,2,Asp-Met-Arg,8ljTlTzqxn9HJn6,2,"M+H, M+Na, M+K, M+H-H2O",C15H28N6O6S,46.4,49.5,13.4,96.4,1.67E-13,3.66E-15,36,A,B,370,7.19,#DIV/0!
+Azelaic acid,4.73_188.1041n,188.1041,171.1008,4.73,0.359,2,Azelaic acid,123-99-9,1,"M+H-H2O, M+Na, M+K, M+H",C9H16O4,40.8,9.73,4,99.1,0,0,9.4,A,B,698,5.13,#DIV/0!
+Benzeneethanamine,2.96_122.0963m/z,,122.0963,2.96,0.343,8,Benzeneethanamine,64-04-0,2,M+H,C8H11N,55.5,85.2,0.8,93.4,0.087911762,0.000446431,1.8,A,B,16,17.43,#DIV/0!
+"Benzenemethanol, 4-methyl-",5.47_105.0694m/z,,105.0694,5.47,0.203,7,"Benzenemethanol, 4-methyl-",589-18-4,2,M+H-H2O,C8H10O,51,66.9,4.2,92.8,1.59E-05,1.10E-07,3.9,A,BLK,20,17.88,#DIV/0!
+Bimatoprost serinol amide,4.32_444.2788m/z,,444.2788,4.32,0.385,4,Bimatoprost serinol amide,1175838-84-2,2,M+H-H2O,C26H39NO6,41.8,34.8,9.4,84.5,9.06E-09,9.26E-11,3,A,BLK,232,5.34,#DIV/0!
+Biotin,3.29_245.0990m/z,,245.099,3.29,0.129,6,Biotin,58-85-5,1,M+H,C10H16N2O3S,41.5,30.9,14.7,91.7,3.66E-14,8.92E-16,9.7,A,BLK,13,5.54,#DIV/0!
+Bisindolylmaleimide I,6.25_413.1977m/z,,413.1977,6.25,0.226,16,Bisindolylmaleimide I,133052-90-1,2,M+H,C25H24N4O2,47.7,46.8,1.3,93.3,3.74E-05,2.51E-07,5.5,A,BLK,44,1.56,#DIV/0!
+Butylated hydroxyanisole,7.01_181.1215m/z,,181.1215,7.01,0.226,3,Butylated hydroxyanisole,25013-16-5,2,M+H,C11H16O2,41.1,15.7,4.6,95.1,4.94E-08,4.58E-10,2.1,B,BLK,31,3.51,#DIV/0!
+Carvacrol,8.08_151.1109m/z,,151.1109,8.08,0.246,13,Carvacrol,499-75-2,2,M+H,C10H14O,41.8,21.8,5.8,93.7,0,0,7.1,B,BLK,86,3.26,#DIV/0!
+CAY10410,7.89_319.2237m/z,,319.2237,7.89,0.596,50,CAY10410,596104-94-8,2,M+H,C20H30O3,44.1,36.8,9.8,94.2,1.32E-12,2.52E-14,4.5,QC,BLK,"3,339",1.34,#DIV/0!
+"cis-5,8,11,14,17-Eicosapentaenoic acid",7.98_302.2236n,302.2236,303.2309,7.98,2.355,5,"cis-5,8,11,14,17-Eicosapentaenoic acid",10417-94-4,2,"M+H-H2O, M+H",C20H30O2,42.7,22,3.2,95.3,0,0,18.6,C,BLK,"1,331",1.91,#DIV/0!
+"cis-7,10,13,16,19-Docosapentaenoic acid",8.59_331.2622m/z,,331.2622,8.59,0.513,6,"cis-7,10,13,16,19-Docosapentaenoic acid",24880-45-3,2,M+H,C22H34O2,45.1,29.6,2.8,99.3,0,0,89.8,C,BLK,"1,321",3.43,#DIV/0!
+cis-9-Hexadecenoic acid,9.48_254.2250n,254.225,237.2217,9.48,0.188,3,cis-9-Hexadecenoic acid,373-49-9,2,"M+H-H2O, M+H",C16H30O2,50.1,65.9,1.6,86.5,5.66E-15,1.56E-16,488.2,QC,BLK,"1,311",7.16,#DIV/0!
+"Conjugated linoleic acid (9E,11E)",8.33_281.2465m/z,,281.2465,8.33,0.539,6,"Conjugated linoleic acid (9E,11E)",544-71-8,2,M+H,C18H32O2,57.1,92.8,3.6,96.8,0,0,11.1,QC,BLK,"5,849",1.69,#DIV/0!
+Curcumol,7.89_237.1841m/z,,237.1841,7.89,0.47,3,Curcumol,4871-97-0,2,M+H,C15H24O2,42.5,25.9,3.5,90.9,2.15E-05,1.47E-07,1.5,C,A,155,5.84,#DIV/0!
+Cys-Asn-Arg,8.08_392.1721m/z,,392.1721,8.08,0.122,3,Cys-Asn-Arg,24OMGjECjGkBWBy,2,M+H,C13H25N7O5S,40.6,22.9,2.6,83.1,0.000364791,2.23E-06,4.1,QC,A,64,9.87,#DIV/0!
+Cys-Asn-Lys,2.22_364.1593m/z,,364.1593,2.22,0.287,5,Cys-Asn-Lys,ZfnoajpYzQ9pkN5,2,M+H,C13H25N5O5S,43.5,39.8,15.4,93.4,0,0,Infinity,A,BLK,18,9.2,#DIV/0!
+Cys-Lys-Lys,1.67_378.2222m/z,,378.2222,1.67,0.121,2,Cys-Lys-Lys,QMara@9WBIllyMV,2,M+H,C15H31N5O4S,45.3,47.8,13.8,93.1,1.06E-08,1.07E-10,Infinity,B,BLK,4,12.92,#DIV/0!
+"Decanedioic acid, bis(2-ethylhexyl) ester",8.28_449.3616m/z,,449.3616,8.28,0.366,2,"Decanedioic acid, bis(2-ethylhexyl) ester",122-62-3,2,M+Na,C26H50O4,40.4,10.5,3.5,95.8,9.23E-14,2.09E-15,3.8,C,BLK,272,2.45,#DIV/0!
+D-erythro-Sphingosine C-15,7.61_258.2418m/z,,258.2418,7.61,0.125,1,D-erythro-Sphingosine C-15,86555-28-4,2,M+H,C15H31NO2,46.2,43.1,3.8,92.6,1.91E-13,4.14E-15,Infinity,B,A,18,9.35,#DIV/0!
+D-erythro-Sphingosine C-20,10.24_328.3198m/z,,328.3198,10.24,0.171,2,D-erythro-Sphingosine C-20,6918-49-6,2,M+H,C20H41NO2,41.3,26.5,3.7,84.3,2.00E-07,1.71E-09,9.8,C,BLK,324,8.16,#DIV/0!
+Dibutyl sebacate,7.01_314.2451n,314.2451,337.2343,7.01,0.606,4,Dibutyl sebacate,109-43-3,2,"M+Na, M+K, M+H",C18H34O4,40.1,4.9,1.9,98,6.22E-15,1.70E-16,5,C,BLK,"6,904",3.02,#DIV/0!
+Diethyltoluamide,7.61_192.1375m/z,,192.1375,7.61,0.125,3,Diethyltoluamide,134-62-3,2,M+H,C12H17NO,41.4,13.3,4.3,98.6,0,0,332.5,C,BLK,72,5.28,#DIV/0!
+Dihydrocapsaicin,7.61_307.2142n,307.2142,308.2214,7.61,0.225,1,Dihydrocapsaicin,19408-84-5,2,"M+H, M+Na, M+K, M+H-H2O",C18H29NO3,40.7,9.29,1.9,96.6,0,0,29.7,C,BLK,"3,329",3.58,#DIV/0!
+DL-Indole-3-lactic acid,3.29_188.0701m/z,,188.0701,3.29,0.154,9,DL-Indole-3-lactic acid,832-97-3,2,M+H-H2O,C11H11NO3,52.9,70,2.3,97.1,1.11E-16,3.98E-18,72.4,A,BLK,126,3.5,#DIV/0!
+DL-Norepinephrine,2.96_152.0699m/z,,152.0699,2.96,0.194,14,DL-Norepinephrine,138-65-8,2,M+H-H2O,C8H11NO3,43.4,23.5,4.4,98.6,0,0,Infinity,C,BLK,13,3.93,#DIV/0!
+DL-Octopamine,1.30_136.0751m/z,,136.0751,1.3,0.218,6,DL-Octopamine,104-14-3,2,M+H-H2O,C8H11NO2,52.2,66.3,3.8,99.1,0,0,131.6,A,BLK,213,5.69,#DIV/0!
+DL-Phenylalanine,2.17_165.0786n,165.0786,166.0859,2.17,0.287,3,DL-Phenylalanine,150-30-1,2,"M+H, M+Na",C9H11NO2,58.8,97.6,2.2,99.2,0,0,610.5,A,BLK,545,3.41,#DIV/0!
+Docosahexaenoic acid ethyl ester,7.31_357.2780m/z,,357.278,7.31,0.152,4,Docosahexaenoic acid ethyl ester,1020718-25-5,2,M+H,C24H36O2,50.3,58.2,2.2,96,0.008438497,4.62E-05,1.4,A,QC,57,3.38,#DIV/0!
+D-Pipecolinic acid,0.91_130.0856m/z,,130.0856,0.91,0.145,4,D-Pipecolinic acid,1723-00-8,2,M+H,C6H11NO2,47.5,46.9,5.3,96.8,6.66E-16,2.13E-17,Infinity,A,BLK,35,17.32,#DIV/0!
+Equol,1.37_242.0897n,242.0897,243.097,1.37,0.243,1,Equol,94105-90-5,2,"M+H-H2O, M+H",C15H14O3,40.1,23.6,18.9,95.6,1.43E-11,2.29E-13,3.5,A,BLK,45,6.27,#DIV/0!
+Estrone,6.55_271.1695m/z,,271.1695,6.55,0.101,7,Estrone,53-16-7,1,M+H,C18H22O2,37.3,2.74,0.8,84.5,9.99E-15,2.64E-16,4.1,C,A,12,1.34,#DIV/0!
+Gln-Leu-Lys,3.83_388.2541m/z,,388.2541,3.83,0.157,5,Gln-Leu-Lys,NDGv90uUMKa@Vo7,2,M+H,C17H33N5O5,51.4,64.2,3.6,97.2,6.42E-11,9.17E-13,4.5,C,A,"1,206",2.24,#DIV/0!
+Glu-Thr,5.40_249.1092m/z,,249.1092,5.4,0.152,4,Glu-Thr,5woUT-HM-d8l@tu,2,M+H,C9H16N2O6,41.9,16.6,4.5,98.3,2.79E-08,2.67E-10,2.2,A,BLK,17,6.1,#DIV/0!
+Glycyl-L-4-Hydroxyproline,1.13_171.0758m/z,,171.0758,1.13,0.17,3,Glycyl-L-4-Hydroxyproline,24587-32-4,2,M+H-H2O,C7H12N2O4,43.9,29,3.5,94.9,0,0,241.9,A,BLK,17,7.34,#DIV/0!
+Gly-Leu,2.82_189.1226m/z,,189.1226,2.82,0.216,8,Gly-Leu,869-19-2,2,M+H,C8H16N2O3,55.4,86.7,3.9,95,1.92E-14,4.88E-16,Infinity,A,BLK,15,13.76,#DIV/0!
+Gly-Phe,3.23_223.1069m/z,,223.1069,3.23,0.05,3,Gly-Phe,t0YvONJW59MBnnL,2,M+H,C11H14N2O3,45.8,35.5,3.5,97.5,2.91E-07,2.45E-09,31.6,A,BLK,10,23.73,#DIV/0!
+Gly-Pro,1.08_172.0842n,172.0842,173.0914,1.08,0.437,1,Gly-Pro,704-15-4,2,"M+H, M+Na, M+H-H2O",C7H12N2O3,44.6,34.1,3.6,93,0,0,17.6,A,BLK,177,4.65,#DIV/0!
+Heptadecasphing-4-enine,9.29_268.2625m/z,,268.2625,9.29,0.166,1,Heptadecasphing-4-enine,6918-48-5,2,M+H-H2O,C17H35NO2,43.2,23.6,3.6,96.6,4.33E-15,1.22E-16,Infinity,B,BLK,595,10.54,#DIV/0!
+"Heptanoic acid, ethyl ester",7.21_158.1297n,158.1297,159.137,7.21,0.126,2,"Heptanoic acid, ethyl ester",106-30-9,2,"M+H, M+K",C9H18O2,45.9,38.6,6.3,98.1,0.585972693,0.002799643,1.3,A,B,38,7.83,#DIV/0!
+His-Ala-Arg,8.13_383.2197m/z,,383.2197,8.13,0.32,13,His-Ala-Arg,#NAME?,2,M+H,C15H26N8O4,41,25.8,12.4,92.5,3.07E-13,6.45E-15,87.3,B,BLK,135,5.75,#DIV/0!
+His-Gln,3.36_284.1336m/z,,284.1336,3.36,0.13,9,His-Gln,ZoZFZIsSxaRqjMj,2,M+H,C11H17N5O4,43,24.4,6.2,97.4,3.33E-16,1.11E-17,Infinity,A,BLK,37,6.43,#DIV/0!
+His-Met-Arg,4.04_442.2059n,442.2059,465.1951,4.04,0.13,3,His-Met-Arg,5lr@8FtPg52H62m,2,"M+Na, M+K, M+H",C17H30N8O4S,41.8,45.3,11.6,76,1.64E-12,3.09E-14,17.7,A,BLK,245,10.15,#DIV/0!
+Ile-Asp-Lys,9.50_375.2255m/z,,375.2255,9.5,0.164,7,Ile-Asp-Lys,6hS3YogSSzQ5O3w,2,M+H,C16H30N4O6,43.9,33,4.6,91.8,3.04E-14,7.50E-16,Infinity,QC,BLK,250,17.26,#DIV/0!
+Ile-Met-Lys,7.86_391.2445m/z,,391.2445,7.86,0.175,12,Ile-Met-Lys,LfR9xRxYveYpMQU,2,M+H,C17H34N4O4S,44.4,54.6,18.2,85.5,3.52E-13,7.31E-15,5.6,B,A,109,8.88,#DIV/0!
+Ile-Pro,3.16_229.1536m/z,,229.1536,3.16,0.306,6,Ile-Pro,46835bpk3eWp5po,2,M+H,C11H20N2O3,42.3,18.8,4.6,97.8,0,0,Infinity,A,BLK,13,4.06,#DIV/0!
+Jasmine lactone,8.42_169.1215m/z,,169.1215,8.42,0.318,3,Jasmine lactone,25524-95-2,2,M+H,C10H16O2,51.5,66.6,4.7,96.2,0,0,56.4,B,BLK,393,3.57,#DIV/0!
+Jasmonic acid,7.28_211.1320m/z,,211.132,7.28,0.278,5,Jasmonic acid,77026-92-7,2,M+H,C12H18O3,50.1,58.4,3.9,96.9,1.67E-15,5.02E-17,44.8,B,BLK,44,1.61,#DIV/0!
+Kifunensine,4.73_232.0684n,232.0684,233.0757,4.73,0.18,1,Kifunensine,109944-15-2,2,"M+H, M+Na",C8H12N2O6,44,27.7,4.9,97.9,5.92E-14,1.39E-15,12.4,A,B,191,4.11,#DIV/0!
+L-Arginine,0.94_175.1182m/z,,175.1182,0.94,0.097,3,L-Arginine,74-79-3,2,M+H,C6H14N4O2,56.5,90.7,4.1,96.7,3.75E-14,9.11E-16,19.4,A,BLK,43,8.23,#DIV/0!
+L-Arginine-7-amido-4-methylcoumarin,3.91_332.1697m/z,,332.1697,3.91,0.26,3,L-Arginine-7-amido-4-methylcoumarin,65286-27-3,2,M+H,C16H21N5O3,42,35.1,6.1,81.9,0,0,Infinity,A,BLK,52,10.03,#DIV/0!
+L-Carnitine,0.99_161.1046n,161.1046,162.1118,0.99,0.17,1,L-Carnitine,541-15-1,2,"M+H, M+Na",C7H15NO3,46.5,38.6,3.9,98.5,8.58E-12,1.42E-13,65.3,A,BLK,146,10.01,#DIV/0!
+L-Citrulline,1.01_176.1023m/z,,176.1023,1.01,0.195,2,L-Citrulline,372-75-8,1,M+H,C6H13N3O3,41,12.4,4.1,97.6,0,0,702.9,A,BLK,79,3.35,#DIV/0!
+Leukotriene B3,7.39_361.2336m/z,,361.2336,7.39,0.855,17,Leukotriene B3,88099-35-8,2,M+Na,C20H34O4,45.3,42.1,4,89.1,2.83E-08,2.71E-10,2.7,A,BLK,786,2.07,#DIV/0!
+L-Glutamic acid,1.30_130.0491m/z,,130.0491,1.3,0.194,9,L-Glutamic acid,56-86-0,1,M+H-H2O,C5H9NO4,56.5,89.7,4.9,98.6,2.57E-08,2.47E-10,9.8,A,BLK,42,5.4,#DIV/0!
+Linolenic acid ethyl ester,8.50_306.2549n,306.2549,307.2621,8.5,0.538,6,Linolenic acid ethyl ester,1191-41-9,2,"M+H-H2O, M+H",C20H34O2,49.2,51.2,3.4,98.8,0,0,17.5,C,BLK,"2,249",2.62,#DIV/0!
+L-Isoleucine,1.54_132.1014m/z,,132.1014,1.54,0.339,7,L-Isoleucine,73-32-5,2,M+H,C6H13NO2,56.3,87.8,3.8,98.3,0,0,46.9,A,BLK,371,2.36,#DIV/0!
+"L-Leucine, N-acetyl",4.63_173.1046n,173.1046,174.1119,4.63,0.384,4,"L-Leucine, N-acetyl",1188-21-2,2,"M+H-H2O, M+H",C8H15NO3,41.7,19.1,3.6,93.4,1.23E-09,1.44E-11,16.8,A,BLK,32,6.39,#DIV/0!
+L-Proline,1.03_116.0701m/z,,116.0701,1.03,0.316,1,L-Proline,147-85-3,2,M+H,C5H9NO2,40.1,6.13,4.5,99.4,0,0,11.8,A,BLK,127,3.3,#DIV/0!
+L-Tyrosine,1.30_181.0736n,181.0736,182.0808,1.3,0.194,2,L-Tyrosine,60-18-4,1,"M+H, M+Na",C9H11NO3,55.6,81.1,1.8,98.9,0,0,498.8,A,BLK,427,3.94,#DIV/0!
+Lys-Asn,5.09_261.1588m/z,,261.1588,5.09,0.178,10,Lys-Asn,gPHpxTl21YjS35N,2,M+H,C10H20N4O4,45.4,55.2,11.8,84.5,2.22E-16,7.63E-18,24.5,C,BLK,46,4.84,#DIV/0!
+Lys-Ser-Lys,3.70_344.2277m/z,,344.2277,3.7,0.235,1,Lys-Ser-Lys,lNtWuSeB4anmR0C,2,M+H-H2O,C15H31N5O5,45.3,34.5,4.2,96.7,1.68E-10,2.24E-12,4,C,A,772,3.3,#DIV/0!
+Met-Cys,4.76_252.0563n,252.0563,253.0635,4.76,0.154,1,Met-Cys,hl059P5x1r22dlR,2,"M+H, M+Na",C8H16N2O3S2,41.8,37.4,15.8,87.6,0.040059844,0.000208551,2.4,C,A,16,12.16,#DIV/0!
+Met-Ser-Lys,3.55_365.1784m/z,,365.1784,3.55,0.235,8,Met-Ser-Lys,XpyqpWucIkAsMXz,2,M+H,C14H28N4O5S,41.2,46.5,18.9,78.1,0.000208511,1.30E-06,2.1,C,A,40,7.05,#DIV/0!
+"Misoprostol, free acid",7.64_368.2559n,368.2559,391.2451,7.64,0.225,3,"Misoprostol, free acid",112137-89-0,2,"M+H, M+Na",C21H36O5,40.2,12.5,1.1,90.1,2.85E-14,7.05E-16,6.5,B,A,95,5.31,#DIV/0!
+Monoelaidin,9.83_356.2915n,356.2915,379.2807,9.83,0.166,2,Monoelaidin,2716-53-2,2,"M+H-H2O, M+Na",C21H40O4,44.9,35.8,3.2,92.3,0,0,19.1,B,A,493,7.32,#DIV/0!
+Monolauryl phosphate,5.01_289.1550m/z,,289.155,5.01,0.099,6,Monolauryl phosphate,2627-35-2,2,M+Na,C12H27O4P,40.4,9.11,3.9,97.3,1.05E-13,2.36E-15,24.4,A,BLK,12,7.97,#DIV/0!
+Monopalmitolein (9c),9.08_328.2605n,328.2605,329.2678,9.08,0.166,1,Monopalmitolein (9c),37515-61-0,2,"M+H, M+Na",C19H36O4,51.7,71.4,2.6,90.1,0,0,Infinity,B,BLK,364,3.31,#DIV/0!
+Myristic acid alkyne,8.33_207.1735m/z,,207.1735,8.33,0.44,3,Myristic acid alkyne,82909-47-5,2,M+H-H2O,C14H24O2,48,53.4,3.9,91.2,1.98E-13,4.27E-15,5.7,QC,BLK,198,7.79,#DIV/0!
+N-(4-Hydroxyphenyl)propanamide,4.17_166.0856m/z,,166.0856,4.17,0.205,6,N-(4-Hydroxyphenyl)propanamide,1693-37-4,2,M+H,C9H11NO2,45,34.6,4.1,95.1,6.36E-09,6.68E-11,8.6,C,BLK,17,13.64,#DIV/0!
+"N,N-Dimethyl-L-valine",2.96_146.1171m/z,,146.1171,2.96,0.145,1,"N,N-Dimethyl-L-valine",2812-32-0,2,M+H,C7H15NO2,56.5,89.1,3.2,97,2.06E-13,4.44E-15,Infinity,A,BLK,13,18.56,#DIV/0!
+N-alpha-Acetyl-L-arginine,1.28_217.1281m/z,,217.1281,1.28,0.122,1,N-.alpha.-Acetyl-L-arginine,155-84-0,2,M+H,C8H16N4O3,47.8,53.5,6.4,92.8,3.86E-14,9.37E-16,62.8,B,BLK,6,9.57,#DIV/0!
+N-3-Oxotetradec-7Z-enoyl-L-homoserine lactone,4.71_324.2164m/z,,324.2164,4.71,0.359,2,N-3-Oxotetradec-7Z-enoyl-L-homoserine lactone,482598-46-9,2,M+H,C18H29NO4,49.3,54.9,1.5,93.5,2.32E-08,2.24E-10,5.1,A,BLK,466,2.6,#DIV/0!
+"N-Acetylneuraminic Acid, 2,3-Dehydro-2-deoxy-",1.06_291.0949n,291.0949,274.0917,1.06,0.34,2,"N-Acetylneuraminic Acid, 2,3-Dehydro-2-deoxy-",24967-27-9,2,"M+H-H2O, M+H, M+Na",C11H17NO8,43.6,25.6,1.6,94.6,0,0,323.3,A,BLK,123,5.8,#DIV/0!
+Nandrolone,6.70_257.1887m/z,,257.1887,6.7,0.277,1,Nandrolone,434-22-0,2,M+H-H2O,C18H26O2,40.4,10.8,4.7,96.5,2.05E-12,3.79E-14,4.9,C,BLK,64,3,#DIV/0!
+N-cis-Tetradec-9-enoyl-L-homoserine lactone,8.55_310.2367m/z,,310.2367,8.55,0.316,1,N-cis-Tetradec-9-enoyl-L-homoserine lactone,HJ84KbEOefGl0cZ,2,M+H,C18H31NO3,43.8,35.5,3.3,87.5,1.75E-07,1.51E-09,2.5,C,A,128,6.3,#DIV/0!
+Nialamide,4.61_298.1413n,298.1413,321.1305,4.61,0.385,1,Nialamide,51-12-7,2,"M+Na, M+K, M+H",C16H18N4O2,40.1,11.1,5.8,95.9,1.44E-15,4.39E-17,34.7,A,B,449,7.67,#DIV/0!
+Nicotinic acid,1.18_124.0386m/z,,124.0386,1.18,0.121,5,Nicotinic acid,59-67-6,2,M+H,C6H5NO2,44.9,32.6,5.8,98.8,0,0,Infinity,A,BLK,12,3.25,#DIV/0!
+N-Methylbenzamide,1.74_136.0749m/z,,136.0749,1.74,0.241,5,N-Methylbenzamide,613-93-4,2,M+H,C8H9NO,40.2,13.9,6.1,94.1,1.33E-14,3.46E-16,Infinity,A,BLK,8,3.36,#DIV/0!
+N-Octanoyl-L-homoserine lactone,5.11_227.1514n,227.1514,210.1481,5.11,0.278,2,N-Octanoyl-L-homoserine lactone,147852-84-4,2,"M+H-H2O, M+H, M+Na",C12H21NO3,44.9,31.8,3.2,96.6,2.15E-05,1.48E-07,15.8,A,C,199,3.82,#DIV/0!
+N-Oleoylethanolamine,9.39_325.2970n,325.297,326.3043,9.39,0.165,1,N-Oleoylethanolamine,111-58-0,2,"M+H, M+Na",C20H39NO2,49.8,55.1,3.3,97.5,3.83E-11,5.68E-13,Infinity,B,BLK,"1,387",4.78,#DIV/0!
+N-Oleoylglycine,9.34_340.2832m/z,,340.2832,9.34,0.189,2,N-Oleoylglycine,2601-90-3,2,M+H,C20H37NO3,42.7,25.2,4,93.1,1.11E-15,3.45E-17,9.4,A,BLK,276,6.03,#DIV/0!
+Norharmane,3.81_169.0755m/z,,169.0755,3.81,0.131,3,Norharmane,244-63-3,2,M+H,C11H8N2,44.4,28.4,2.8,96.8,7.23E-07,5.81E-09,5,C,A,10,7.56,#DIV/0!
+N-Palmitoylglycine,9.24_314.2678m/z,,314.2678,9.24,0.284,2,N-Palmitoylglycine,2441-41-0,2,M+H,C18H35NO3,45.2,34.3,3.7,96,0,0,29.7,A,BLK,183,8.74,#DIV/0!
+N-Tetradecanoyl-L-homoserine Lactone,8.23_312.2528m/z,,312.2528,8.23,0.317,3,N-Tetradecanoyl-L-homoserine Lactone,202284-87-5,2,M+H,C18H33NO3,42.9,24.7,1.8,91.8,5.57E-09,5.89E-11,15,C,BLK,682,2.48,#DIV/0!
+Octabenzone,3.70_326.1939n,326.1939,327.2012,3.7,0.392,7,Octabenzone,1843-05-6,2,"M+H, M+Na",C21H26O3,41.8,32.7,17.5,94.1,1.12E-14,2.94E-16,3.4,B,A,"1,777",4.45,#DIV/0!
+Oleanolic acid,7.01_439.3633m/z,,439.3633,7.01,0.201,4,Oleanolic acid,508-02-1,2,M+H-H2O,C30H48O3,44.2,36.7,13.7,98.5,1.67E-14,4.26E-16,27.4,B,A,107,3.54,#DIV/0!
+O-Methyltyramine,4.12_152.1064m/z,,152.1064,4.12,0.179,5,O-Methyltyramine,55-81-2,2,M+H,C9H13NO,42.6,26,3.6,91.4,6.89E-09,7.19E-11,71.8,A,C,504,9.5,#DIV/0!
+Ononin,4.73_430.1286n,430.1286,431.1359,4.73,0.129,2,Ononin,486-62-4,2,"M+H, M+K",C22H22O9,42.1,29.6,5.1,86.9,1.10E-10,1.50E-12,29.3,A,B,455,6.06,#DIV/0!
+Palmitamide,9.72_255.2553n,255.2553,256.2626,9.72,0.236,1,Palmitamide,629-54-9,2,"M+H, M+Na",C16H33NO,41,11,3.6,98.3,1.91E-11,2.97E-13,23.9,C,A,"12,826",3.42,#DIV/0!
+Palmitoleoyl ethanolamide,8.30_298.2728m/z,,298.2728,8.3,0.44,1,Palmitoleoyl ethanolamide,94421-67-7,2,M+H,C18H35NO2,44.2,36.6,4.3,89.3,7.90E-11,1.11E-12,7.4,QC,BLK,576,2.73,#DIV/0!
+Palmitoyl ethanolamide,9.27_299.2814n,299.2814,300.2887,9.27,0.166,3,Palmitoyl ethanolamide,544-31-0,2,"M+H, M+Na",C18H37NO2,48,47.6,3.4,96.4,3.22E-11,4.84E-13,23,B,A,"1,056",2.43,#DIV/0!
+p-Hydroxyphenyllactic acid,3.11_165.0539m/z,,165.0539,3.11,0.274,13,p-Hydroxyphenyllactic acid,306-23-0,2,M+H-H2O,C9H10O4,41.3,16.9,3.9,94,5.55E-16,1.80E-17,Infinity,A,BLK,17,8.23,#DIV/0!
+Phytomonic acid,10.74_297.2772m/z,,297.2772,10.74,0.121,2,Phytomonic acid,503-06-0,2,M+H,C19H36O2,41.8,30.7,5.4,84.4,2.85E-07,2.40E-09,Infinity,B,BLK,34,12.37,#DIV/0!
+Phytosphingosine,5.90_300.2893m/z,,300.2893,5.9,0.348,4,Phytosphingosine,554-62-1,2,M+H-H2O,C18H39NO3,44.3,23.6,1.4,99.5,0,0,74.7,B,BLK,"11,141",3.27,#DIV/0!
+Pinolenic acid,7.89_278.2241n,278.2241,279.2314,7.89,0.869,2,Pinolenic acid,16833-54-8,2,"M+H, M+Na, M+K, M+H-H2O",C18H30O2,56.2,84.6,1.7,98.3,0,0,38.8,C,BLK,"48,259",1.63,#DIV/0!
+Piperine,3.11_286.1397m/z,,286.1397,3.11,0.471,8,Piperine,94-62-2,2,M+H,C17H19NO3,41.6,32.2,14.3,90.6,0,0,Infinity,A,BLK,36,8.12,#DIV/0!
+Pregabalin,3.70_159.1254n,159.1254,160.1326,3.7,0.157,2,Pregabalin,148553-50-8,2,"M+H, M+Na",C8H17NO2,48.1,48.7,3.6,96,0.022267692,0.000118189,5.4,A,C,54,20.95,#DIV/0!
+Pro-Leu,1.18_229.1537m/z,,229.1537,1.18,0.364,6,Pro-Leu,v8tjdNm4tVJRTgR,2,M+H,C11H20N2O3,41.9,17.1,4.2,97.4,0,0,Infinity,C,BLK,15,4.18,#DIV/0!
+Prostaglandin D1,6.58_377.2296m/z,,377.2296,6.58,1.054,18,Prostaglandin D1,17968-82-0,2,M+Na,C20H34O5,40.8,24.5,0.8,80.5,7.64E-13,1.51E-14,8.6,A,BLK,657,2.49,#DIV/0!
+Prostaglandin D1 alcohol,6.25_323.2567m/z,,323.2567,6.25,0.201,12,Prostaglandin D1 alcohol,1176470-37-3,2,M+H-H2O,C20H36O4,48.4,50.7,3.9,95.8,0,0,28,A,BLK,154,4.03,#DIV/0!
+Prostaglandin F2alpha dimethylamine,9.67_368.3147m/z,,368.3147,9.67,0.118,2,Prostaglandin F2.alpha. dimethylamine,67508-09-2,2,M+H,C22H41NO3,41,22.3,3.2,86.6,0,0,446.1,C,BLK,103,5.05,#DIV/0!
+Prostaglandin H2,6.15_352.2218n,352.2218,353.2291,6.15,1.208,21,Prostaglandin H2,42935-17-1,2,"M+H, M+Na",C20H32O5,44.4,37.1,9,95,1.11E-16,3.98E-18,5,A,BLK,"7,318",1.68,#DIV/0!
+Prostaglandin K1,6.83_335.2187m/z,,335.2187,6.83,0.556,41,Prostaglandin K1,69413-73-6,2,M+H-H2O,C20H32O5,50,63.5,8.5,95.8,5.07E-14,1.20E-15,5.8,C,BLK,"2,901",2.95,#DIV/0!
+Pro-Thr-Lys,6.02_345.2117m/z,,345.2117,6.02,0.325,9,Pro-Thr-Lys,SFmqSYFvPfni89Q,2,M+H,C15H28N4O5,41.9,49.5,4.5,65.1,1.17E-05,8.23E-08,1.5,A,BLK,236,1.35,#DIV/0!
+p-tert-Octylphenol diglycol ether,5.70_294.2187n,294.2187,295.226,5.7,2.573,6,p-tert-Octylphenol diglycol ether,2315-61-9,2,"M+H-H2O, M+H",C18H30O3,44.1,27.8,2.5,95.7,0,0,9.4,A,BLK,"12,388",2.84,#DIV/0!
+p-tert-Octylphenol triglycol ether,6.88_339.2493m/z,,339.2493,6.88,1.156,16,p-tert-Octylphenol triglycol ether,2315-62-0,2,M+H,C20H34O4,43.9,47,10.8,84.3,1.74E-10,2.31E-12,2.2,A,BLK,667,4.25,#DIV/0!
+p-Toluenesulfonic acid,5.87_155.0156m/z,,155.0156,5.87,0.173,3,p-Toluenesulfonic acid,104-15-4,2,M+H-H2O,C7H8O3S,45.4,32,2.8,98.4,3.41E-13,7.11E-15,118.2,B,BLK,575,2.93,#DIV/0!
+Pyridoxamine,2.19_169.0964m/z,,169.0964,2.19,0.263,9,Pyridoxamine,85-87-0,2,M+H,C8H12N2O2,40.5,10.9,4.6,96.7,0,0,Infinity,B,BLK,15,1.05,#DIV/0!
+PyroGlu-Ala,1.11_200.0792n,200.0792,201.0865,1.11,0.243,2,PyroGlu-Ala,mAkmyjUq0VVvstF,2,"M+H, M+Na",C8H12N2O4,41.4,12.6,2.6,97.4,0,0,Infinity,A,BLK,60,3.28,#DIV/0!
+PyroGlu-Ala-Lys,3.44_328.1746n,328.1746,351.1638,3.44,0.313,2,PyroGlu-Ala-Lys,beE3g3mwHcWEYEq,2,"M+H, M+Na",C14H24N4O5,42.6,25.1,0.3,88.2,0,0,577.2,B,BLK,75,3.57,#DIV/0!
+PyroGlu-Asn-Lys,3.78_372.1863m/z,,372.1863,3.78,0.183,6,PyroGlu-Asn-Lys,Km5SC2KhXHTIYsm,2,M+H,C15H25N5O6,47.6,49.5,4,92.9,7.77E-16,2.46E-17,125.3,A,BLK,254,9.36,#DIV/0!
+PyroGlu-Ile-Lys,3.47_371.2276m/z,,371.2276,3.47,0.105,13,PyroGlu-Ile-Lys,gIu9gA4gCWQb9nj,2,M+H,C17H30N4O5,48.1,47.9,3.6,97,8.17E-11,1.14E-12,10.4,B,BLK,14,8.09,#DIV/0!
+PyroGlu-Met,1.30_260.0825n,260.0825,261.0898,1.3,0.17,1,PyroGlu-Met,pDO0D7tFF-@hFqB,2,"M+H, M+Na",C10H16N2O4S,40,8.42,2,94.2,0,0,Infinity,A,BLK,16,3.54,#DIV/0!
+PyroGlu-Pro,1.40_227.1019m/z,,227.1019,1.4,0.339,9,PyroGlu-Pro,CgY4@3c4JFdsf8w,2,M+H,C10H14N2O4,41.8,19.4,3.5,93.9,6.99E-15,1.89E-16,69.2,A,BLK,8,10.34,#DIV/0!
+PyroGlu-Ser-Lys,1.08_345.1789m/z,,345.1789,1.08,0.8,4,PyroGlu-Ser-Lys,#NAME?,2,M+H,C14H24N4O6,45.1,53.2,6,79.2,0,0,988.3,A,BLK,79,4.7,#DIV/0!
+PyroGlu-Tyr,3.36_293.1128m/z,,293.1128,3.36,0.13,11,PyroGlu-Tyr,YlVy8eUNxAcIzzp,2,M+H,C14H16N2O5,44,25,1.5,96.9,0,0,Infinity,C,BLK,14,3.03,#DIV/0!
+"R-(-)-Phenyl-1,2-ethanediol",1.35_121.0641m/z,,121.0641,1.35,0.194,12,"R-(-)-Phenyl-1,2-ethanediol",16355-00-3,2,M+H-H2O,C8H10O2,50.5,59.9,5.1,98.6,0,0,Infinity,B,BLK,32,6.28,#DIV/0!
+Sebacic acid,6.00_203.1278m/z,,203.1278,6,0.173,4,Sebacic acid,111-20-6,1,M+H,C10H18O4,41.4,10.8,0.2,96.3,0,0,146.7,A,BLK,13,8.37,#DIV/0!
+Ser-Asn,5.52_202.0811m/z,,202.0811,5.52,0.229,11,Ser-Asn,W3JNL43xAWkpoBj,2,M+H-H2O,C7H13N3O5,41,14.8,5.3,96.5,0.003279811,1.85E-05,5.7,A,BLK,25,3.14,#DIV/0!
+Ser-Asp-Arg,7.06_376.1736n,376.1736,377.1808,7.06,0.403,2,Ser-Asp-Arg,WqJfd9wlNTjrpR0,2,"M+H, M+Na",C13H24N6O7,43.5,28.5,7.7,97.6,5.06E-12,8.73E-14,2,C,BLK,147,2.55,#DIV/0!
+Stearidonic acid,7.49_277.2154m/z,,277.2154,7.49,0.452,13,Stearidonic acid,20290-75-9,2,M+H,C18H28O2,52.9,72.4,2.9,95.7,0,0,10.5,C,BLK,"2,497",2.72,#DIV/0!
+Suberic acid,6.40_157.0850m/z,,157.085,6.4,0.627,4,Suberic acid,505-48-6,2,M+H-H2O,C8H14O4,46.1,49.5,5.3,87,2.97E-13,6.27E-15,1.8,A,B,58,3.74,#DIV/0!
+Sucrose,1.01_365.1053m/z,,365.1053,1.01,0.219,25,Sucrose,57-50-1,2,M+Na,C12H22O11,45.3,28.2,0.4,98.9,2.22E-16,7.63E-18,6.1,A,BLK,397,6.01,#DIV/0!
+Terbutaline,4.38_225.1357n,225.1357,226.143,4.38,0.18,2,Terbutaline,23031-25-6,2,"M+H, M+Na",C12H19NO3,42.7,24.9,3.4,92.5,0.001077667,6.32E-06,3.3,A,C,86,3.61,#DIV/0!
+Testosterone enanthate,6.22_400.2969n,400.2969,401.3042,6.22,0.15,1,Testosterone enanthate,315-37-7,2,"M+H, M+Na",C26H40O3,47,46.1,2.1,91.2,4.59E-09,4.93E-11,4.7,A,BLK,62,5.73,#DIV/0!
+Thymol,6.40_151.1109m/z,,151.1109,6.4,0.429,12,Thymol,89-83-8,2,M+H,C10H14O,48.6,53.5,5.8,96,4.56E-08,4.25E-10,1.5,A,B,51,1.22,#DIV/0!
+"trans,cis-3,6-Nonadien-1-ol",5.34_140.1193n,140.1193,123.1161,5.34,0.28,1,"trans,cis-3,6-Nonadien-1-ol",56805-23-3,2,"M+H-H2O, M+H",C9H16O,43.8,29.9,5.5,95.4,9.38E-06,6.67E-08,2.4,A,BLK,46,5.94,#DIV/0!
+trans-Zeatin,2.77_220.1173m/z,,220.1173,2.77,0.167,3,trans-Zeatin,1637-39-4,2,M+H,C10H13N5O,44,36.8,9.2,93.2,8.88E-16,2.79E-17,Infinity,A,BLK,9,8.05,#DIV/0!
+Trp-Ala-Arg,7.06_432.2375m/z,,432.2375,7.06,0.15,8,Trp-Ala-Arg,D0ynvdAeFUfFfBA,2,M+H,C20H29N7O4,52.5,70,5,98.4,0.062826403,0.000322129,2.2,A,QC,"1,143",7.39,#DIV/0!
+Trp-Pro-Arg,4.50_458.2564m/z,,458.2564,4.5,0.128,2,Trp-Pro-Arg,99z9lChHa8vCAzZ,2,M+H,C22H31N7O4,42.9,43.2,11.8,84.1,2.47E-11,3.78E-13,4.6,A,BLK,58,7.28,#DIV/0!
+Tyr-Tyr,3.11_345.1448m/z,,345.1448,3.11,0.304,4,Tyr-Tyr,8FZrE2XQJkdZbVW,2,M+H,C18H20N2O5,40.3,11.7,0.8,90.5,0,0,53.7,A,BLK,91,2.97,#DIV/0!
+Undecanedioic acid,5.52_216.1355n,216.1355,199.1322,5.52,0.254,2,Undecanedioic acid,1852-04-6,2,"M+H-H2O, M+K, M+Na, M+H",C11H20O4,40.1,5.28,3.3,98.9,0,0,9.8,A,B,229,5.24,#DIV/0!
+Undecapropylene glycol monobutyl ether,10.38_712.5332n,712.5332,735.5224,10.38,1.812,1,Undecapropylene glycol monobutyl ether,mQ6QalAyq4Dn6dD,2,"M+Na, M+K",C37H76O12,41.2,7.89,0.7,98.8,0,0,14.7,B,A,"46,671",2.35,#DIV/0!
+Uracil,1.16_113.0338m/z,,113.0338,1.16,0.146,2,Uracil,66-22-8,2,M+H,C4H4N2O2,49.7,60,6.6,96.2,2.62E-14,6.51E-16,Infinity,C,BLK,6,10.51,#DIV/0!
+Val-Arg-Lys,5.42_402.2829m/z,,402.2829,5.42,0.481,5,Val-Arg-Lys,ybe2Ona2LArGpfv,2,M+H,C17H35N7O4,43.9,38,1.5,83.2,4.60E-10,5.71E-12,4.8,B,BLK,144,7.64,#DIV/0!
+Val-Glu-Arg,5.04_403.2307m/z,,403.2307,5.04,0.125,13,Val-Glu-Arg,ooiVBbzow7qMJgn,2,M+H,C16H30N6O6,42.3,31.1,1.8,82.5,0.001887256,1.09E-05,1.5,A,BLK,23,6.93,#DIV/0!
+Val-Pro-Arg,1.57_371.2392m/z,,371.2392,1.57,0.17,21,Val-Pro-Arg,mSd0WstFK-hswXp,2,M+H,C16H30N6O4,40.9,13.2,2.5,94.3,3.45E-09,3.77E-11,23.9,QC,BLK,7,10.94,#DIV/0!
+Val-Val,1.47_217.1539m/z,,217.1539,1.47,0.194,2,Val-Val,3918-94-3,2,M+H,C10H20N2O3,41.9,16.6,3.4,97,0,0,Infinity,A,BLK,7,5,#DIV/0!
+Val-Val-Arg,1.74_373.2548m/z,,373.2548,1.74,0.145,9,Val-Val-Arg,gmdbnekIjCoGHw0,2,M+H,C16H32N6O4,40.8,18.7,2.6,88.6,2.01E-12,3.71E-14,Infinity,A,BLK,3,14.76,#DIV/0!
